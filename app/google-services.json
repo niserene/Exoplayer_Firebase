@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421129862407",
+    "project_id": "exoplayer-305c4",
+    "storage_bucket": "exoplayer-305c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421129862407:android:7942fb745612ab2873d9a2",
+        "android_client_info": {
+          "package_name": "com.nishantdev961.exoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421129862407-b8gmp7t9prfe9cnp8575icp9h37n4h5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Hu8Px-2mOMorGO72Ar49haOmUlrbcu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421129862407-b8gmp7t9prfe9cnp8575icp9h37n4h5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
